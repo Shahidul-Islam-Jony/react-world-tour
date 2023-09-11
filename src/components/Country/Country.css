@@ -4,3 +4,11 @@
     padding: 15px;
     border-radius: 15px;
 }
+
+@media screen and (max-width: 570px) {
+    .country{
+        margin: 0px;
+        padding: 0px;
+        border-radius: 15px;
+    }
+}
